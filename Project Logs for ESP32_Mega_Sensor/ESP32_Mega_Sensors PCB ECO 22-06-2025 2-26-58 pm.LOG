@@ -1,0 +1,3 @@
+Added Component: Designator=U?(TFTDISPLAY-2.4INCH-SPI-BREAKOUT)
+Added Member To Class: ClassName=MCU_Sensors Member=Component J? I2C PINOUT
+Added Member To Class: ClassName=MCU_Sensors Member=Component U? TFTDISPLAY-2.4INCH

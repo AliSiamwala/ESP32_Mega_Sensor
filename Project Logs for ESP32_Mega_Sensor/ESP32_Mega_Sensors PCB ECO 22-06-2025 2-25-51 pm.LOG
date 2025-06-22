@@ -1,0 +1,5 @@
+Added Component: Designator=J?(DHT11-BREAKOUT)
+Added Component: Designator=J?(I2C-BREAKOUT)
+Added Member To Class: ClassName=MCU_Sensors Member=Component J? DHT11-PINOUT
+Added Member To Class: ClassName=MCU_Sensors Member=Component J? I2C PINOUT
+Add Class Member: Failed to add class member : Component U2 TFTDISPLAY-2.4INCH
