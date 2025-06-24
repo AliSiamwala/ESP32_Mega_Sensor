@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=MCU_Sensors Member=IC3
+Added Component: Designator=J?(OV7670-BREAKOUT)
+Added Component: Designator=U?(SON50P200X200X80-8)
+Added Member To Class: ClassName=MCU_Sensors Member=Component J? I2C PINOUT
+Added Member To Class: ClassName=MCU_Sensors Member=Component J? OV7670-PINOU
+Added Member To Class: ClassName=MCU_Sensors Member=Component U? TFTDISPLAY-2.4INCH
